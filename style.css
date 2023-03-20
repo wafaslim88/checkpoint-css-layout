@@ -17,5 +17,8 @@ p{
     margin-left: 10px;
     margin-right: 10px ;
     color: brown;
-    border: 15px solid;color:purple;
+    border: 10px solid;color:purple;
+}
+a{
+    display: inline;
 }
